@@ -1,1 +1,1 @@
-breno-learning-store
+## Starter theme mainly for learning purposes.
